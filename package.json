@@ -1,0 +1,14 @@
+{
+  "name": "githubcallbacks",
+  "version": "1.0.0",
+  "description": "Testing callback with GitHub API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SidHawkss",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
